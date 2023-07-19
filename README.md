@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jung</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungdicai&count_private=true)
-
 <!--
 **chungdicai/chungdicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
